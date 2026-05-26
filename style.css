@@ -70,7 +70,7 @@ h2{
 /* -------------------------------------------- */
 .side_info_for_appsANDprojects{
  position: absolute;
-  right: 80;
+  right: 0;
   width: 1600px;
   height: 1500px;
   margin: 20px;
