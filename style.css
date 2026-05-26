@@ -68,9 +68,9 @@ h2{
   color: black;  
 }
 /* -------------------------------------------- */
-.side_info_for_appsANDprojects{
+.sideInfoForAppsANDprojects{
  position: absolute;
-  right: 0;
+  right: -20;
   width: 1600px;
   height: 1500px;
   margin: 20px;
